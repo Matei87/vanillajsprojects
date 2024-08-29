@@ -4,8 +4,8 @@ This is the main repository for all of the projects.
 
 |  #  |                                                     Project                                                     |
 | :-: | :-------------------------------------------------------------------------------------------------------------: |
-| 01  |         [Form Validator](https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator)         |
-| 02  |     [Movie Seat Booking](https://github.com/bradtraversy/vanillawebprojects/tree/master/movie-seat-booking)     |
+| 01  |            [Form Validator](https://github.com/Matei87/vanillajsprojects/tree/master/form_validator)            |
+| 02  |        [Movie Seat Booking](https://github.com/Matei87/vanillajsprojects/tree/master/movie_seat_booking)        |
 | 03  |    [Custom Video Player](https://github.com/bradtraversy/vanillawebprojects/tree/master/custom-video-player)    |
 | 04  |    [Exchange Rate Calculator](https://github.com/bradtraversy/vanillawebprojects/tree/master/exchange-rate)     |
 | 05  |  [DOM Array Methods Project](https://github.com/bradtraversy/vanillawebprojects/tree/master/dom-array-methods)  |
